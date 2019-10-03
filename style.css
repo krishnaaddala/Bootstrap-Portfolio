@@ -21,11 +21,11 @@ hr{
 }
 .AboutMeBlock{
     background-color: #eee;
-    width: 960px;
     height:660px;
     align-content: center;
-    margin-left: 500px;
+    margin-left: 300px;
     margin-top: 40px;
+    float: left;
 }
 .second-row{
     text-align: left;
