@@ -21,7 +21,8 @@ hr{
 }
 .AboutMeBlock{
     background-color: #eee;
-    height:660px;
+    height:auto;
+    width: auto;
     align-content: center;
     margin-left: 300px;
     margin-top: 40px;
@@ -33,4 +34,6 @@ hr{
 .third-row{
     text-align: left;
 }
-p { word-break: break-all }
+p { 
+    word-break: break-all; 
+}
