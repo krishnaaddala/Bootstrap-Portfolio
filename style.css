@@ -18,6 +18,13 @@ hr{
     background-color: #4aaaa5;
     font-weight: bold;
     font-family: 'Georgia', Times, Times New Roman, serif;
+    border: none;
+    box-sizing: inherit;
+}
+.navbar {
+    padding: 0rem 1rem;
+    padding-top: 0.5rem;
+
 }
 .AboutMeBlock{
     background-color: #eee;
@@ -36,4 +43,13 @@ hr{
 }
 p { 
     word-break: break-all; 
+
 }
+h1{
+    color: #4aaaa5;
+}
+hr {
+    width: 100%;
+    height: 2px;
+    background-color: lightgrey;
+    }
