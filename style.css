@@ -3,14 +3,10 @@
     clear: both;
     display: inline-flex;
   }
-  
 body{
     background-color: #dddddd;
     border-color: #cccccc;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
-    
-}
-hr{
     
 }
 .navbar-brand{
@@ -21,14 +17,11 @@ hr{
     box-sizing: inherit;
     font-size: 30px;
     margin-left: 280px;
-
 }
 .navbar {
     padding: 0rem 1rem;
     padding-top: 0.5rem;
-
 }
-
 .header-page{
     margin-top: 15px;
     font-weight: 100;
