@@ -9,7 +9,6 @@ body{
     border-color: #cccccc;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     
-    
 }
 hr{
     
@@ -34,6 +33,8 @@ hr{
     margin-left: 300px;
     margin-top: 40px;
     float: left;
+    margin-bottom: 400px;
+    padding-bottom: 80px;
 }
 .second-row{
     text-align: left;
@@ -70,4 +71,19 @@ display: block;
     width: 300px;
     height: 200px;
     margin-top: 2.5rem;
+}
+.page-footer{
+    /* background-color: grey;
+    width: 100%;
+    height: 60px;
+    bottom: 0;
+    position: fixed;
+    text-align: center; */
+    position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: grey;
+  color: white;
+  text-align: center;
 }
