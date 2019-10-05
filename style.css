@@ -19,11 +19,19 @@ hr{
     font-family: 'Georgia', Times, Times New Roman, serif;
     border: none;
     box-sizing: inherit;
+    font-size: 30px;
+    margin-left: 280px;
+
 }
 .navbar {
     padding: 0rem 1rem;
     padding-top: 0.5rem;
 
+}
+
+.header-page{
+    margin-top: 15px;
+    font-weight: 100;
 }
 .AboutMeBlock{
     background-color: #eee;
