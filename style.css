@@ -73,13 +73,7 @@ display: block;
     margin-top: 2.5rem;
 }
 .page-footer{
-    /* background-color: grey;
-    width: 100%;
-    height: 60px;
-    bottom: 0;
-    position: fixed;
-    text-align: center; */
-    position: fixed;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
