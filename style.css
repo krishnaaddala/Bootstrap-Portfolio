@@ -13,7 +13,6 @@ body{
     background-color: #4aaaa5;
     font-weight: bold;
     font-family: 'Georgia', Times, Times New Roman, serif;
-    /* box-sizing: inherit; */
     font-size: 30px;
 } 
 .navbar {
@@ -31,17 +30,17 @@ body{
     align-content: center;
     margin-top: 40px;
     margin-bottom: 40px;
-    padding-bottom: 80px;
+    padding-bottom: 90px;
 }
 .PortolioBlock{
     background-color: #eee;
-    height:auto;
-    width: auto;
+    /* height:auto;
+    width: auto; */
     padding: 20px;
     margin: 20px auto;
-    align-content: center;
+    /* align-content: center; */
     margin-top: 40px;
-    margin-bottom: 40px;
+    margin-bottom: 90px;
     padding-bottom: 80px;
 }
 .img-thumbnail{
@@ -76,7 +75,7 @@ width: 100%;
 
 }
 .page-footer{
-  position: sticky;
+  position: fixed;
   left: 0;
   bottom: 0;
   width: 100%;
@@ -84,6 +83,3 @@ width: 100%;
   color: white;
   text-align: center;
 }
-/* .form-group{
-    width: 860px;
-} */
